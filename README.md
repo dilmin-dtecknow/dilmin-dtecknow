@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Dilmin Fernando 👋
 
-<!--
-**dilmin-dtecknow/dilmin-dtecknow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Software Engineering Student  
+💻 Java & Spring Boot Backend Developer  
+🌐 Full-Stack Developer (React + MySQL)  
+🚀 Currently looking for internship opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, PHP
+- **Backend:** Spring Boot, Servlets, REST APIs
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, IntelliJ, VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 CozaStore – Java E-Commerce Web App
+- Java Servlet/JSP based online store
+- MVC structure with backend logic
+- Frontend integrated with dynamic product pages  
+🔗 https://github.com/dilmin-dtecknow/CozaStore
+
+### 👔 Men's Fashion – PHP E-Commerce System
+- User & seller registration
+- Shopping cart and checkout
+- Invoice generation and admin features  
+🔗 https://github.com/dilmin-dtecknow/Men-s-Fashion
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/dilmin-dtecknow
+- Email: dtharusha0322@gmail.com
