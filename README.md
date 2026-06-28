@@ -1,10 +1,10 @@
 # Hi, I'm Dilmin Fernando 👋
 
-🎓 BSc (Hons) Software Engineering Graduate – Birmingham City University
-💻 Backend Developer (Java & Spring Boot)  
-🌐 Full‑Stack Developer (React.js + MySQL)  
-🔒 Exploring Cybersecurity & Information Security for MSc studies
-🚀 Actively applying for internships & entry‑level opportunities
+- 🎓 BSc (Hons) Software Engineering Graduate – Birmingham City University
+- 💻 Backend Developer (Java & Spring Boot)  
+- 🌐 Full‑Stack Developer (React.js + MySQL)  
+- 🔒 Exploring Cybersecurity & Information Security for MSc studies
+- 🚀 Actively applying for internships & entry‑level opportunities
 
 ---
 
